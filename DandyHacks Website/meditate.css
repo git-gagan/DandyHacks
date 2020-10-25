@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Merriweather Sans';
+    background: url('black.jpg');
+    background-size: cover;
+}
+
+.nav {
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+    list-style: none;
+}
+
+.nav li{
+    display: inline-block;
+}
+
+.nav li a{
+    padding: 5px 20px;
+    font-size: 25px;
+    color: red;
+    text-decoration: none;
+    border: lightblue groove 1px;
+    border-radius: 10px;
+    margin-right: 7px;
+    background-color: pink;
+}
+a:hover{
+    background-color:skyblue;
+    color:black;
+}
+
+#link a{
+    text-decoration: none;
+    text-align: center;
+    list-style: none;
+    font-size: 30px;
+    border: lightblue groove 1px;
+    border-radius: 10px;
+    margin:30px;
+}
+
+#link{
+    padding-top: 200px;
+    vertical-align: middle;
+    margin-left: 40%;
+}
+
+
+
+  
+
+  
